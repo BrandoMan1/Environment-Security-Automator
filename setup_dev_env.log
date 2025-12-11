@@ -1,0 +1,17 @@
+[2025-10-07 00:39:28] INFO: Starting Interactive Development Environment Setup...
+[2025-10-07 00:39:28] INFO: Script not running as root. Will attempt to use 'sudo' for package installation.
+[2025-10-07 00:39:28] INFO: Detected OS and set package manager to apt.
+[2025-10-07 00:39:53] INFO: User inputs received: Project=Team4Tech Test Application, GitUser=BrandoManT4t
+[2025-10-07 00:39:53] INFO: Checking and installing required system packages.
+[2025-10-07 00:39:53] INFO: Updating package list...
+[2025-10-07 00:40:03] INFO: git is already installed. Skipping.
+[2025-10-07 00:40:03] INFO: curl is already installed. Skipping.
+[2025-10-07 00:40:03] INFO: jq is already installed. Skipping.
+[2025-10-07 00:40:03] INFO: Installing nginx...
+[2025-10-07 00:40:12] SUCCESS: nginx installed.
+[2025-10-07 00:40:12] INFO: Creating configuration template.
+[2025-10-07 00:40:12] SUCCESS: Configuration file created and customized at /home/devops-brandon/.Team4Tech Test Application.config.yaml.
+[2025-10-07 00:40:12] INFO: Setting restrictive permissions on configuration file.
+[2025-10-07 00:40:12] INFO: Running final environment checks...
+[2025-10-07 00:40:12] SUCCESS: Configuration file is readable.
+[2025-10-07 00:40:12] INFO: Script execution finished.
